@@ -9,7 +9,7 @@ export default {
       client_id: CLIENT_ID,
       responde_type: "token",
     };
-    window.location = `${ROOT_URL}/oath2/authorize?${qs.stringify(
+    window.location = `${ROOT_URL}/oauth2/authorize?${qs.stringify(
       querystring
     )}`;
   },
