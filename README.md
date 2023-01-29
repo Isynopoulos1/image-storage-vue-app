@@ -1,9 +1,5 @@
 # VUE APP
 
-## REQUIREMENTS
-
-Make sure to have installed node.js at the version 16.13.1.
-
 ## INSTALLATION
 
 Do the following steps:
